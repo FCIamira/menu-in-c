@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734988814 source:g:\all task in iti\oop-c++\mnue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
